@@ -59,11 +59,5 @@ Astra/
 - Konvertierung zu Core ML Format
 - Datensammlung und Vorverarbeitung
 
-## GitHub Workflow
-1. Code ändern
-2. `git add .`
-3. `git commit -m "Beschreibung der Änderungen"`
-4. `git push origin main`
-
 ## Lizenz
 MIT License
