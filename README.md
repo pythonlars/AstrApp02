@@ -1,4 +1,4 @@
- Astra - Skateboard Trick Recognition App
+ Astra - Trick Recognition App
 
 Eine iOS-App zur Erkennung von Skateboard-Tricks mit Machine Learning Unterstützung.
 
